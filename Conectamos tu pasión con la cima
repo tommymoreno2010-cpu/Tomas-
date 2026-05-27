@@ -1,2 +1,190 @@
-eightClimb es una plataforma web creada para ayudar a jóvenes y principiantes interesados en la escalada a encontrar rutas, consejos de seguridad y lugares seguros para practicar este deporte en Quito. Nuestro proyecto nace porque actualmente la información sobre escalada está muy dispersa entre redes sociales y diferentes páginas web, lo que dificulta que más personas descubran este deporte. La solución es una página clara y fácil de usar que centraliza mapas, guías y comunidad en un solo lugar. El objetivo del proyecto es desarrollar una plataforma digital accesible que permita a los usuarios aprender sobre escalada, encontrar rutas seguras y conectarse con otras personas interesadas en este deporte. El proyecto se relaciona con el ODS 3 (Salud y bienestar) porque fomenta la actividad física y con el ODS 4 (Educación de calidad) porque comparte conocimientos accesibles sobre escalada y seguridad. Para desarrollarlo utilizamos tecnologías como HTML, CSS, Visual Studio Code, Google Maps API, GitHub Pages y herramientas de diseño como Canva. Nuestra frase representativa es: “Conectamos tu pasión con la cima”.
-https://docs.google.com/document/d/102og1Mdz2bU9HQg7EXbWHPeMWcAY3dg4oI9H7rVVZEs/edit?usp=drivesdk
+eightClimb es una plataforma web creada para ayudar a 
+jóvenes y principiantes interesados en la escalada a encontrar rutas, 
+consejos de seguridad y lugares seguros para practicar este deporte en Quito. 
+Nuestro proyecto nace porque actualmente la información sobre escalada está muy 
+dispersa entre redes sociales y diferentes páginas web, lo que dificulta que más 
+personas descubran este deporte. La solución es una página clara y fácil de usar 
+que centraliza mapas, guías y comunidad en un solo lugar. El objetivo del proyecto 
+es desarrollar una plataforma digital accesible que permita a los usuarios 
+aprender sobre
+escalada, encontrar rutas seguras y conectarse con otras personas interesadas en este 
+deporte. El proyecto se relaciona con el ODS 3 (Salud y bienestar) porque fomenta 
+la actividad 
+física y con el ODS 4 (Educación de calidad) porque comparte conocimientos 
+accesibles sobre escalada 
+y seguridad.
+Para desarrollarlo utilizamos tecnologías como HTML,
+CSS, Visual Studio Code, Google Maps API, GitHub Pages y herramientas de diseño como Canva. 
+Nuestra frase representativa es: “Conectamos tu pasión con la cima”.
+
+EightClimb
+
+
+
+Tomas Moreno — Líder / Coordinador 
+Nicolás-Cristian Fierro— Investigador 
+Sepe— Diseñador / Creativo 
+Matías  — Presentador / Comunicador 
+Conquista nuevas alturas con eightClimb.
+
+Inteligencia artificial 
+
+HTML
+
+CSS
+2. Resumen Ejecutivo
+En Quito, muchas personas interesadas en la escalada no saben dónde encontrar lugares seguros para practicar, aprender técnicas básicas o descubrir rutas adecuadas para principiantes. Además, la información suele estar dispersa entre redes sociales y diferentes páginas web.
+Nuestra propuesta es crear eightClimb, una plataforma web impulsada por Eight Academy donde los usuarios puedan encontrar mapas de rutas, videos educativos, recomendaciones de seguridad y espacios para conectar con la comunidad de escalada.
+La plataforma será desarrollada utilizando HTML y CSS en Visual Studio Code, junto con herramientas visuales y bases de datos en la nube.
+El proyecto busca fomentar la actividad física segura y el aprendizaje accesible, apoyando directamente el ODS 3 (Salud y bienestar) y el ODS 4 (Educación de calidad), además de convertir la infraestructura del colegio en un ejemplo de innovación digital.
+
+3. El Problema
+Hoy en día, muchas personas que desean aprender a escalar no saben dónde encontrar lugares seguros para practicar ni información clara sobre rutas, niveles de dificultad o recomendaciones. La mayoría de veces, la información está repartida entre distintas páginas web, redes sociales o videos, por lo que puede ser difícil encontrar todo en un mismo lugar.
+Este problema afecta principalmente a jóvenes, deportistas y personas que quieren empezar en la escalada, pero no saben cómo comenzar o qué lugares son adecuados para principiantes.
+Según estudios sobre actividad física de la Organización Mundial de la Salud (OMS), muchas personas no prueban deportes nuevos porque desconocen lugares adecuados o información básica para empezar. Esto limita que más personas descubran deportes como la escalada.
+Encuestas realizadas
+Para entender mejor la situación, realizamos una pequeña encuesta entre compañeros y amigos. Les preguntamos:
+¿Conoces lugares seguros para escalar?
+¿Usas páginas web o aplicaciones para buscar rutas?
+¿Te gustaría tener toda la información en un solo lugar?
+Resultados
+La mayoría respondió que conocía pocos lugares para escalar. Algunas personas mencionaron que usan páginas o aplicaciones para ver rutas y consejos, pero comentaron que la información suele estar incompleta o difícil de encontrar.
+Análisis de resultados
+Las respuestas mostraron que existe interés por la escalada, especialmente entre jóvenes, pero hace falta una plataforma sencilla y organizada que reúna información confiable sobre este deporte.
+¿Por qué las soluciones actuales no son suficientes?
+Aunque existen redes sociales, páginas web y aplicaciones relacionadas con la escalada, la información está muy dispersa y no siempre es fácil de entender para principiantes. Muchas plataformas están en inglés o no muestran información local de Quito y Ecuador.
+Por eso, las personas terminan buscando en diferentes sitios antes de encontrar información útil.
+
+4. Nuestra Solución
+¿Qué hace el proyecto?
+eightClimb es una plataforma web integral diseñada especialmente para la comunidad de escalada. Busca reunir en un solo lugar información útil, segura y fácil de entender.
+¿Cómo funciona?
+El usuario ingresa a la página web y encuentra un menú intuitivo con tres secciones principales:
+Mapa de rutas: lugares para escalar y niveles de dificultad.
+Guías y seguridad: videos, consejos y técnicas básicas.
+Comunidad: espacio para compartir experiencias y recomendaciones.
+¿Para quién fue creado?
+Fue creado para jóvenes y adultos interesados en la escalada, tanto principiantes como personas con experiencia que desean descubrir nuevos lugares y retos.
+Flujo del usuario
+Ingreso
+El usuario entra a la página desde su computadora o celular.
+Exploración
+Puede navegar entre mapas, rutas, videos y consejos.
+Acción
+El usuario guarda información, aprende técnicas básicas y encuentra lugares para practicar.
+Experiencia del usuario
+La experiencia busca ser dinámica, visual y motivadora. La página utiliza colores inspirados en la naturaleza, como verdes y grises oscuros, para transmitir la sensación de montaña y aventura.
+Propuesta de valor
+“Conectamos tu pasión con la cima”
+EightClimb no es solo una página informativa. Es una plataforma que reúne seguridad, rutas y comunidad en un mismo espacio gratuito y accesible.
+Diagramas y prototipos
+(Agregar aquí mockups, diagramas, wireframes o capturas del prototipo.) 
+
+5. Arquitectura Tecnológica
+Herramientas tecnológicas utilizadas
+HTML
+CSS
+Visual Studio Code
+Canva
+GitHub Pages
+Google Maps Platform
+IA utilizada
+Se utilizaron herramientas de inteligencia artificial para generar ideas, organizar contenido, corregir errores y mejorar la estructura visual del proyecto. 
+APIs y plataformas
+Google Maps API para mostrar ubicaciones y rutas.
+GitHub Pages para publicar la página web.
+Canva para diseño gráfico y prototipos.
+Bases de datos
+Planeamos utilizar bases de datos en la nube para almacenar información sobre rutas, niveles de dificultad y recomendaciones.
+Funcionamiento técnico
+La página web funcionará desde cualquier navegador. Los usuarios podrán ingresar, explorar mapas y visualizar información organizada de manera sencilla.
+El sitio estará dividido en secciones para facilitar la navegación y permitir búsquedas rápidas.
+
+6. Impacto y ODS
+Nuestro proyecto se relaciona directamente con el:
+ODS 3 — Salud y bienestar
+EightClimb promueve la actividad física y los hábitos saludables al motivar a más personas a practicar escalada de forma segura.
+ODS 4 — Educación de calidad
+La plataforma también ayuda a compartir conocimientos sobre técnicas, seguridad y aprendizaje deportivo de manera accesible para cualquier usuario.
+Gracias a esto, el proyecto busca generar un impacto positivo en jóvenes y principiantes interesados en aprender un nuevo deporte.
+
+7. Modelo de Negocio
+¿Cómo se sostendrá económicamente?
+El proyecto podría sostenerse mediante publicidad relacionada con deportes, alianzas con gimnasios de escalada y posibles colaboraciones con marcas deportivas.
+¿Quién pagaría?
+Empresas deportivas, gimnasios o marcas interesadas en promocionar productos relacionados con escalada y aventura.
+Posibles clientes
+Gimnasios de escalada
+Tiendas deportivas
+Escuelas deportivas
+Personas interesadas en escalada
+Monetización
+Publicidad en la página web
+Colaboraciones con marcas
+Espacios promocionales
+Costos aproximados
+Dominio web
+Hosting
+Diseño y mantenimiento
+Herramientas digitales
+Proyección básica
+A futuro, eightClimb podría crecer incluyendo más rutas, más usuarios y funciones avanzadas para la comunidad.
+
+8. Investigación de Mercado
+Tamaño del mercado
+El deporte de escalada ha crecido mucho en los últimos años, especialmente después de que se incluyera en los Juegos Olímpicos. Cada vez más personas practican escalada en gimnasios o en la naturaleza.
+Análisis de competencia
+Actualmente existen algunas páginas y aplicaciones relacionadas con escalada, pero muchas están en inglés o no tienen información local.
+Ventajas diferenciales
+EightClimb busca reunir información en un solo lugar con una página sencilla, clara y pensada para principiantes.
+Necesidades detectadas
+Las encuestas mostraron que muchas personas no saben dónde encontrar rutas, mapas o consejos confiables.
+Oportunidad del proyecto
+Existe una gran oportunidad porque no hay muchas plataformas enfocadas en escalada con información organizada y accesible para usuarios locales.
+
+9. Desarrollo y Aprendizajes
+Avances realizados
+Creación del logotipo oficial de eightClimb.
+Organización del mapa de navegación de la página web.
+Diseño del primer wireframe.
+Desarrollo del prototipo inicial.
+Dificultades encontradas
+Encontrar una paleta de colores adecuada.
+Organizar información técnica de forma sencilla.
+Diseñar una experiencia intuitiva para principiantes.
+Cambios realizados
+Al inicio planeábamos incluir una tienda online, pero decidimos enfocarnos primero en contenido educativo y comunidad para mantener una experiencia más limpia.
+Aprendizajes del equipo
+Aprendimos a utilizar herramientas de diseño digital.
+Entendimos la importancia de la experiencia del usuario.
+Mejoramos el trabajo colaborativo y la organización del equipo.
+Evidencias del proceso
+(Agregar fotografías https://eightclimb-qikl.arcada.app)
+10. Validación con Usuarios
+Pruebas realizadas
+Mostramos el diseño y la idea de la página web a compañeros y posibles usuarios para observar si entendían cómo funcionaría.
+Entrevistas
+Preguntamos si usarían una página que muestre rutas, lugares y consejos sobre escalada.
+Feedback recibido
+Los usuarios comentaron que la idea les parece útil porque ayudaría a encontrar lugares seguros y aprender más sobre este deporte.
+Resultados obtenidos
+La mayoría dijo que sí utilizaría una plataforma como eightClimb, especialmente si incluye rutas, mapas y niveles de dificultad.
+Mejoras sugeridas
+Agregar fotografías de rutas.
+Incluir niveles de dificultad.
+Añadir más consejos para principiantes.
+Implementar mapas interactivos.
+
+11. Referencias
+Normas APA
+Comité Olímpico Internacional. (2021). Sport climbing. Olympics. https://olympics.com
+Organización de las Naciones Unidas. (2015). Objetivos de Desarrollo Sostenible. Naciones Unidas. https://www.un.org/sustainabledevelopment/es/
+Mozilla Foundation. (2024). HTML basics. MDN Web Docs. https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics
+Mozilla Foundation. (2024). CSS basics. MDN Web Docs. https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics
+Google Maps Platform. (2024). Maps Platform Documentation. Google Developers. https://developers.google.com/maps
+Canva. (2024). Herramientas de diseño gráfico online. Canva. https://www.canva.com/
+World Health Organization. (2023). Physical activity. WHO. https://www.who.int/news-room/fact-sheets/detail/physical-activity
+GitHub. (2024). GitHub Pages Documentation. GitHub Docs. https://docs.github.com/en/pages
+
+
+
