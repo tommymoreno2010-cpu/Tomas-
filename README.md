@@ -1,6 +1,6 @@
 eightClimb
 "Conectamos tu pasión con la cima"
-  Descripción del proyecto
+
 eightClimb es una plataforma web creada por estudiantes de Eight Academy con el objetivo de facilitar el acceso a información sobre escalada. La página reúne en un solo lugar rutas, recomendaciones de seguridad, guías para principiantes y espacios para conectar con la comunidad de escaladores.
 El proyecto nació al identificar que muchas personas interesadas en este deporte no saben dónde practicar, qué medidas de seguridad tomar o dónde encontrar información confiable.
  Problema
